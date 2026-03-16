@@ -25,24 +25,31 @@ Design database tables for Students, Courses, Enrollment, and Fees.
 
 ## USE CASE DIAGRAM:
 
+![img](https://github.com/Ashera2004/Exp-5/blob/main/2026-03-16%2016_09_31-Use%20Case%20Diagram.mdj%20%E2%80%94%20StarUML%20(UNREGISTERED).png)
 
 ## ACTIVITY DIAGRAM:
 
+![img](https://github.com/Ashera2004/Exp-5/blob/main/2026-03-16%2016_11_45-Activity%20Diagram.mdj%20%E2%80%94%20StarUML%20(UNREGISTERED).png)
 
 
 ## CLASS DIAGRAM:
 
+![img](https://github.com/Ashera2004/Exp-5/blob/main/2026-03-16%2016_11_15-Class%20Diagram.mdj%20%E2%80%94%20StarUML%20(UNREGISTERED).png)
 
 
 ## COMMUNICATION DIAGRAM:
 
+![img](https://github.com/Ashera2004/Exp-5/blob/main/2026-03-16%2016_10_51-Communication%20Diagram.mdj%20%E2%80%94%20StarUML%20(UNREGISTERED).png)
 
 
 ## PACKAGE DIAGRAM:
 
+![img](https://github.com/Ashera2004/Exp-5/blob/main/2026-03-16%2016_10_22-Package%20Diagram.mdj%20%E2%80%94%20StarUML%20(UNREGISTERED).png)
 
 
 ## SEQUENCE DIAGRAM:
+
+![img](https://github.com/Ashera2004/Exp-5/blob/main/2026-03-16%2016_09_57-Sequence%20Diagram.mdj%20%E2%80%94%20StarUML%20(UNREGISTERED).png)
 
 
 # RESULT:
